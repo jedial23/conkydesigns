@@ -1,0 +1,11 @@
+Hi there!!!
+greetings from YTFT
+
+Install all the necessary fonts(ie.Product Sans)
+you might encounter some issues like the font not recognized by conky...... It can be easily solved by editing the text section of .conkyrc file and changing to the exact font name!!! (It will be Product Sans by default... change it to Product Sans Regular or something)
+
+paste the .conkyrc file to home or .conky and viola!!
+MISSION ACCOMPLISHED
+
+
+btw I also included a version without swap monitoring.........incase you dont have swap partition or dont want to see it you cant choose this
